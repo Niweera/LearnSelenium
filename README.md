@@ -10,6 +10,8 @@
 
 Additional Resources:
 
+>Selenium Java Files - https://selenium-release.storage.googleapis.com/3.141/selenium-java-3.141.59.zip
+
 >Learn Selenium Locators - https://www.seleniumeasy.com/selenium-tutorials/selenium-locators
 
 >Java Client Driver - http://seleniumhq.org/download/
