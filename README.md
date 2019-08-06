@@ -14,8 +14,6 @@ Additional Resources:
 
 >Learn Selenium Locators - https://www.seleniumeasy.com/selenium-tutorials/selenium-locators
 
->Java Client Driver - http://seleniumhq.org/download/
-
 >TestNG - https://testng.org/doc/download.html
 
 >ChromeDriver - https://sites.google.com/a/chromium.org/chromedriver/downloads
